@@ -6,5 +6,3 @@
 ## 4.Machine Learning
 ## Data Structures
 
-
-
